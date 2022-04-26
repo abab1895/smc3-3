@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>0425</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/문제_0425.hwp</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Desktop/%EB%AC%B8%EC%A0%9C_0425.hwp</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
